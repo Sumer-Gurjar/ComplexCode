@@ -1,2 +1,2 @@
 # ComplexCode
-Variuos Complex Algorithms imlplemenation of AI.
+Various Complex Algorithms implementation of AI.
